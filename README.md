@@ -72,5 +72,5 @@ Hi, I'm Ujjwal Agarwal (alias specter25) a FINTECH FREAK. I am a MERN STACK DVEL
 
 
 
-![specter25's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=specter25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+  ![Specter25's github stats](https://github-readme-stats.vercel.app/api?username=specter25&show_icons=true&theme=tokyonight)
+  

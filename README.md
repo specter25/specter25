@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Ujjwal Agarwal (alias specter25) a FINTECH FREAK. I am a MERN STACK DVELOPER , BLOCKCHAIN  and CRYPTO enthusiast  🚀 from India, currently, I'm a Community Team Leader 🙍🏽‍♂️ [@DECODE25](https://github.com/DECODE25) , and a member of [@developer-student-club-thapar](https://github.com/developer-student-club-thapar) . Beside's programming, I enjoy gyming , travelling and reading novels. Not at all sorry to say that i am a FITNESS FREAK.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://i2.wp.com/css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif?ssl=1" />
   
 **Talking about Personal Stuffs:**
 
